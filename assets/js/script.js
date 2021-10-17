@@ -29,3 +29,29 @@ navSlide();
 $(window).on('load', function() {  
 	$(".preloader").fadeOut("slow");;
 });
+
+	$('body').delegate('.gallery-wrap .caption button.action', 'click', function () {
+		
+		var image = $(this).parent('div').siblings('img').attr('src');
+		var title = $(this).parent('div').siblings('.description').children('.title').html();
+		var text = $(this).parent('div').siblings('.description').children('.text').html();
+		var userUpload = $(this).parent('div').siblings('.description').children('.user-upload').html();
+		var view = $('.viewed');
+
+		view.addClass('active');
+		view.find('.title').html(title);
+		view.find('.text').html(text);
+		view.find('#img-viewed').attr('src', image);
+		view.find('.user-upload').html(userUpload);
+
+		$('body').css({
+			"overflow": "hidden"
+		})
+	});
+
+	$('.viewed .close').click(function () {
+		$('.viewed').removeClass('active');
+		$('body').css({
+			"overflow": "auto"
+		})
+	});
