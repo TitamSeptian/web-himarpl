@@ -613,3 +613,35 @@ footer {
   color: #b0b0b0;
   text-align: center;
 }
+
+/* contact styles */
+#contact {
+  background-color: var(--color-2);
+  width: 100%;
+  color: #fff;
+}
+
+.contact-header {
+  height: 40vh;
+  padding: 30px 70px;
+}
+
+.contact-detail-container {
+  background-color: var(--color-1);
+  height: 60vh;
+}
+
+.contact-detail {
+  padding: 30px 70px;
+  max-width: 90vw;
+}
+
+.contact-detail > iframe {
+  width: 100%;
+  height: 300px;
+}
+
+.contact-detail .social-media-links:hover {
+  transform: translateY(-5px);
+  transition: .1s;
+}
