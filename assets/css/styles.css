@@ -461,6 +461,7 @@ footer {
   left: 0;
   transform: translate(-50%, -50%);
   background: linear-gradient(to right, var(--color-1), var(--color-2));
+  /* background: var(--color-1); */
   opacity: 0;
   background-repeat: no-repeat;
   transition: all 0.4s;
@@ -637,7 +638,7 @@ footer {
 
 .contact-detail .social-media-links:hover {
   transform: translateY(-5px);
-  transition: .1s;
+  transition: 0.1s;
 }
 
 @media screen and (max-width: 576px) {
@@ -647,5 +648,96 @@ footer {
 
   .contact__informasi {
     padding: 30px 20px !important;
+  }
+}
+
+#pimpinan {
+  background-color: #fff;
+  width: 100%;
+  color: var(--black-2);
+}
+
+.about-item-timeline {
+  border-left: 1.2px solid #ddd;
+  padding-left: 16px;
+  margin: 0 auto;
+  width: auto;
+  display: inline-block;
+}
+.about-item-timeline .item-timeline-title {
+  text-align: center;
+  font-size: 16px;
+}
+.about-item-timeline .item-timeline {
+  position: relative;
+}
+.about-item-timeline .item-timeline .item-timeline-date {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translate(calc(-100% - 16px), -50%);
+  padding: 8px 16px;
+  border-radius: 2px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  /*background: var(--yellow);*/
+  background: url("../img/bg-line.png");
+  border: 1px solid #ddd;
+  border-right-width: 1px;
+  font-family: var(--font-1);
+  font-weight: bold;
+  color: #333;
+  box-shadow: -2px 0px 5px #eee;
+}
+.about-item-timeline .item-timeline:last-child > .item-timeline-date {
+  color: #fff;
+  font-size: 16px;
+  background: var(--color-1);
+}
+.about-item-timeline .item-timeline img {
+  width: 100%;
+}
+.about-item-timeline-wrap {
+  display: flex;
+  justify-content: center;
+}
+.about-item-timeline .item-timeline {
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  border-bottom: 1.2px dashed #ddd;
+}
+.about-item-timeline .item-timeline:last-child {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  border-bottom: 0px dashed #ddd;
+}
+.about-item-timeline .item-timeline .item-timeline-title {
+  margin-top: 8px;
+  padding-top: 20px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  position: relative;
+}
+.about-item-timeline .item-timeline .item-timeline-title:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+}
+
+/* tables */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .about-item-timeline {
+    padding-left: 0px;
+    border-left: 0px;
+  }
+  .about-item-timeline .item-timeline .item-timeline-date {
+    transform: translate(0%, 0%);
+    top: 0;
+    border-radius: 0px;
+    border-bottom-right-radius: 24px;
+    padding: 16px;
   }
 }
