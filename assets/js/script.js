@@ -55,3 +55,29 @@ $(window).on('load', function() {
 			"overflow": "auto"
 		})
 	});
+
+
+$('#scroll-top').click(function () {
+	$('html, body').animate({
+      scrollTop: 0
+    }, 800, function(){
+      $(window).scrollTop(0);
+    });
+});
+
+$(window).scroll(function (e) {
+	let scrollTop = $(window).scrollTop(); 
+	if (scrollTop > 500) {
+		scrollToTopShow();
+	} else { 
+		scrollToTopHide();
+	}
+});
+
+function scrollToTopShow() {
+	$('#scroll-top').removeClass('bounceOutDown').addClass('bounceInUp');
+}
+
+function scrollToTopHide() { 
+	$('#scroll-top').removeClass('bounceInUp').addClass('bounceOutDown');  
+}

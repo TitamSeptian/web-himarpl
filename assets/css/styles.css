@@ -12,6 +12,53 @@ body {
   font-family: "Open Sans", sans-serif;
 }
 
+*::-webkit-scrollbar {
+  width: 0.25em;
+  height: 0.25em;
+}
+body::-webkit-scrollbar {
+  width: 0.5em;
+  height: 0.5em;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: var(--color-1);
+  outline: 1px solid slategrey;
+}
+body::-webkit-scrollbar-thumb {
+  background: var(--color-2);
+  outline: 1px solid slategrey;
+}
+
+.scroll-top {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: var(--color-1);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 16px;
+  box-shadow: 0px 5px 5px 0px var(--color-2);
+  cursor: pointer;
+}
+.firstScrollProperty {
+  opacity: 0;
+  -webkit-transform: translate3d(0, 2000px, 0);
+  transform: translate3d(0, 2000px, 0);
+}
+.scroll-top:hover {
+}
+
 .preloader {
   width: 100vw;
   height: 100vh;
@@ -352,6 +399,10 @@ nav {
 /* header */
 .header-container {
   background-image: url("../img/bg-home.jpg");
+  /* background-size: cover; */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
   height: auto;
@@ -635,7 +686,7 @@ footer {
 }
 
 .gallery-wrap:hover img {
-  filter: blur(4px) brightness(0.2);
+  filter: blur(3px) brightness(0.6);
 }
 
 .gallery-wrap:hover .caption button {
