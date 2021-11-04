@@ -27,7 +27,8 @@ navSlide();
   AOS.init();
 
 $(window).on('load', function() {  
-	$(".preloader").fadeOut("slow");;
+	$(".preloader").fadeOut("slow");
+	$("#desc-logo1,#desc-logo2,#desc-logo3").hide();
 });
 
 	$('body').delegate('.gallery-wrap .caption button.action', 'click', function () {
@@ -65,6 +66,8 @@ $('#scroll-top').click(function () {
     });
 });
 
+
+
 $(window).scroll(function (e) {
 	let scrollTop = $(window).scrollTop(); 
 	if (scrollTop > 500) {
@@ -81,3 +84,81 @@ function scrollToTopShow() {
 function scrollToTopHide() { 
 	$('#scroll-top').removeClass('bounceInUp').addClass('bounceOutDown');  
 }
+
+$(".logo1").click(function (e) {
+	$(".logo1:nth-child(1)").css({
+		"fill": '#d9d9d6',
+		"transition": 'all 0.2 ease-in-out',
+		"cursor": 'pointer',
+	})
+	$(".logo1:nth-child(2),.logo1:nth-child(3)").css({
+		"fill": 'var(--color-1)',
+		"transition": 'all 0.2 ease-in-out',
+		"cursor": 'pointer',
+	})
+	$(".logo1:nth-child(4),.logo1:nth-child(5)").css({
+		"fill": 'var(--color-2)',
+		"transition": 'all 0.2 ease-in-out',
+		"cursor": 'pointer',
+	})
+	$(".logo3,.logo2").css({
+		"fill": '#434343',
+		"transition": 'all 0.2 ease-in-out',
+	})
+	$("#desc-logo3,#desc-logo2,#desc-logo").hide();
+	$("#desc-logo1").fadeIn();
+})
+
+// $(".logo1").hover(function () {
+// 	$(".logo1").css({
+// 		"fill": '#f6f6f6',
+// 		"transition": 'all 0.2 ease-in-out',
+// 		"cursor": 'pointer',
+// 	})
+// })
+
+$(".logo2").click(function () {
+	// console.log($("#logo21").html());
+	$("#logo21").css({
+		"fill": 'var(--color-1)',
+		"transition": 'all 0.2 ease-in-out',
+		"cursor": 'pointer',
+	});
+	$("#logo22").css({
+		"fill": 'var(--color-2)',
+		"transition": 'all 0.2 ease-in-out',
+		"cursor": 'pointer',
+	});
+	$("#logo23").css({
+		"fill": '#d9d9d6',
+		"transition": 'all 0.2 ease-in-out',
+		"cursor": 'pointer',
+	});
+	$(".logo3,.logo1").css({
+		"fill": '#434343',
+		"transition": 'all 0.2 ease-in-out',
+	})
+	$("#desc-logo1,#desc-logo3,#desc-logo").hide();
+	$("#desc-logo2").fadeIn();
+})
+
+$(".logo3").click(function () {
+	$(".logo3").css({
+		"fill": 'var(--color-1)',
+		"transition": 'all 0.2 ease-in-out',
+		"cursor": 'pointer',
+	})
+	$(".logo2,.logo1").css({
+		"fill": '#434343',
+		"transition": 'all 0.2 ease-in-out',
+	})
+	$("#desc-logo1,#desc-logo2,#desc-logo").hide();
+	$("#desc-logo3").fadeIn();
+})
+
+// $(".logo1,.logo2,.logo3").mouseleave(function () {
+// 	$(".logo1,.logo2,.logo3").css({
+// 		"fill": '#434343',
+// 		"transition": 'all 0.2 ease-in-out',
+// 	})
+// })

@@ -785,7 +785,7 @@ footer {
   border-top-right-radius: 0px;
   border-bottom-right-radius: 0px;
   /*background: var(--yellow);*/
-  background: url("../img/bg-line.png");
+  /* background: url("../img/bg-line.png"); */
   border: 1px solid #ddd;
   border-right-width: 1px;
   font-family: var(--font-1);
@@ -832,10 +832,11 @@ footer {
 }
 
 /* tables */
-@media (min-width: 576px) and (max-width: 767.98px) {
+@media (max-width: 576px) and (max-width: 767.98px) {
   .about-item-timeline {
     padding-left: 0px;
     border-left: 0px;
+    margin: 2rem 0;
   }
   .about-item-timeline .item-timeline .item-timeline-date {
     transform: translate(0%, 0%);
@@ -864,4 +865,29 @@ footer {
   background-color: var(--black-1);
   margin-top: 30px;
   font-weight: bold;
+}
+
+#logo {
+  background-color: #0f0e0e;
+  width: 100%;
+  height: auto;
+  padding: 0 70px;
+  color: var(--black-2);
+  /* margin: 2rem 0; */
+}
+.logo1:hover,
+.logo2:hover,
+.logo3:hover {
+  fill: #f6f6f6;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 576px) {
+  #footer .row .col-md-12 h1 {
+    font-size: 20px;
+  }
+  #footer .row .col-md-12 a {
+    font-size: 14px;
+  }
 }
