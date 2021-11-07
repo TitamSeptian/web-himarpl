@@ -56,8 +56,6 @@ body::-webkit-scrollbar-thumb {
   -webkit-transform: translate3d(0, 2000px, 0);
   transform: translate3d(0, 2000px, 0);
 }
-.scroll-top:hover {
-}
 
 .preloader {
   width: 100vw;
@@ -450,11 +448,32 @@ nav {
 }
 
 #struktur {
-  background-color: var(--color-2);
+  background-color: #0f0e0e;
   width: 100%;
   height: auto;
   padding: 30px 70px;
   color: #fff;
+}
+
+#struktur .row .text-center div h4 {
+  color: var(--color-2);
+}
+#struktur .row .text-center div h6 {
+  color: #d9d9d6;
+}
+
+@media screen and (max-width: 576px) {
+  #struktur h2 {
+    font-size: 20px;
+  }
+}
+
+.big-line-1 {
+  /* position: absolute; */
+  width: 100%;
+  background-color: var(--color-1);
+  height: 30px;
+  margin: 2rem 0;
 }
 
 #visi-misi {
@@ -877,7 +896,12 @@ footer {
 }
 .logo1:hover,
 .logo2:hover,
-.logo3:hover {
+.logo3:hover,
+.panah:hover,
+.tahun:hover,
+.lamp path:hover:not(:first-child),
+.inspira-text path:hover,
+.triple-dots path:hover {
   fill: #f6f6f6;
   transition: all 0.2s ease-in-out;
   cursor: pointer;
@@ -890,4 +914,34 @@ footer {
   #footer .row .col-md-12 a {
     font-size: 14px;
   }
+}
+
+#sejarah {
+  background-color: #0f0e0e;
+  width: 100%;
+  height: auto;
+  padding: 0 70px;
+  color: var(--black-2);
+}
+
+.text-light {
+  color: var(--grey-5) !important;
+}
+
+#logo-kabinet {
+  background-color: #fff;
+  width: 100%;
+  height: auto;
+  padding: 0 70px;
+  color: var(--black-2);
+}
+
+.pcb:hover {
+  stroke: #f6f6f6;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.desc-logo-kabinet h5 {
+  color: var(--ins-color-1);
 }

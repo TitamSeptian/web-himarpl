@@ -29,6 +29,7 @@ navSlide();
 $(window).on('load', function() {  
 	$(".preloader").fadeOut("slow");
 	$("#desc-logo1,#desc-logo2,#desc-logo3").hide();
+	$(".desc-logo-kabinet").hide();
 });
 
 	$('body').delegate('.gallery-wrap .caption button.action', 'click', function () {
@@ -108,15 +109,6 @@ $(".logo1").click(function (e) {
 	$("#desc-logo3,#desc-logo2,#desc-logo").hide();
 	$("#desc-logo1").fadeIn();
 })
-
-// $(".logo1").hover(function () {
-// 	$(".logo1").css({
-// 		"fill": '#f6f6f6',
-// 		"transition": 'all 0.2 ease-in-out',
-// 		"cursor": 'pointer',
-// 	})
-// })
-
 $(".logo2").click(function () {
 	// console.log($("#logo21").html());
 	$("#logo21").css({
@@ -156,9 +148,66 @@ $(".logo3").click(function () {
 	$("#desc-logo3").fadeIn();
 })
 
-// $(".logo1,.logo2,.logo3").mouseleave(function () {
-// 	$(".logo1,.logo2,.logo3").css({
-// 		"fill": '#434343',
-// 		"transition": 'all 0.2 ease-in-out',
-// 	})
-// })
+$(".lamp path").click(function () {
+	if ($(this).hasClass("panah")) {
+		$(this).css({
+			"fill": 'var(--ins-color-2)',
+		})
+		showKabinetDesc("panah")
+	}
+	if ($(this).hasClass("moon")) {
+		$(this).css({
+			"fill": 'var(--ins-color-1)',
+		})
+		showKabinetDesc("moon")
+	}
+	if ($(this).hasClass("dot")) {
+		$(".lamp path").css({
+			"fill": 'var(--ins-color-2)',
+		})
+		showKabinetDesc("lamp")
+	}
+	$(this).mouseleave(function () {
+		$(".lamp path").css({
+			"fill": '#838383',
+		})
+	})
+})
+
+$(".pcb").click(function () {
+	$(this).css({
+		"stroke": 'var(--ins-color-2)',
+	})
+	$(this).mouseleave(function () {
+		$(this).css({
+			"stroke": '#838383',
+		})
+	})
+	showKabinetDesc("pcb")
+
+})
+$(".inspira-text path").click(function () {
+	if ($(this).hasClass("use-color-ins-1")) {
+		$(".inspira-text path.use-color-ins-1").css({
+			"fill": 'var(--ins-color-1)',
+		})
+	}
+	if ($(this).hasClass("use-color-ins-2")) {
+		$(".inspira-text path.use-color-ins-2").css({
+			"fill": 'var(--ins-color-2)',
+		})
+	}
+	$(this).mouseleave(function () {
+		$(".inspira-text path").css({
+			"fill": '#838383',
+		})
+	})
+	showKabinetDesc("inspira-text")
+
+})
+
+function showKabinetDesc(dataLogo) {
+	$("#pre-text-kabinet").hide();
+	$(".desc-logo-kabinet[data-logo-kab="+dataLogo+"]").fadeIn()
+	$(".desc-logo-kabinet[data-logo-kab!="+dataLogo+"]").hide()
+}
