@@ -1,716 +1,716 @@
 [
-    {
-        "name": "Muhammad Reynaldi",
-        "type": "BE",
-        "membership": "teras 1",
-        "departemen": "Ketua BE",
-        "img": "reynaldi.png",
-        "bio": "Kata mama jangan lupa belajar sambil bermain, kira - kira gitulah sampai sekarang.",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/muhreynaldii/"    
-            }
-        ] 
-    },
-    {
-        "name": "Naufal Geraldi Hendarman",
-        "type": "BE",
-        "membership": "teras 1",
-        "departemen": "Wakil Ketua BE",
-        "img": "geraldi.png",
-        "bio": "Life is like the art of drawing without an eraser, so live a life you will remember.",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/naufalgeraldi/"    
-            },
-            {
-                "label":"LinkedIn",
-                "url": "https://www.linkedin.com/in/naufalgeraldi/"
-            }
-        ] 
-    },
-    {
-        "name": "Athoillah Sholahuddin",
-        "type": "DP",
-        "membership": "teras 1",
-        "departemen": "Ketua DP",
-        "img": "atho.png",
-        "bio": "Hanya mau hidup bahagia, bahagia untuk diri sendiri dengan cintai dirimu. Terus berprogress walau hanya 0,001% dan terus konsisten",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/athsolah/"    
-            },
-            {
-                "label":"LinkedIn",
-                "url": "https://www.linkedin.com/in/athoillah-sholahuddin-8646ab1a8/"
-            }
-        ] 
-    },
-    {
-        "name": "Arfi Triawan",
-        "type": "DP",
-        "membership": "teras 1",
-        "departemen": "Wakil Ketua DP",
-        "img": "arfi.png",
-        "bio": "Virgo. Introvert. Diajak nonton anime + main Mobile Legends, The Sims, Football Manager, dan Minecraft gaskan banget. Jangan sungkan buat kenalan dan diskusi karena tak kenal maka tak sayang.",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/arfitriawan19"    
-            },
-            {
-                "label":"LinkedIn",
-                "url": "https://www.linkedin.com/in/arfi-triawan-959a651b2/"
-            },
-            {
-                "label":"Twitter",
-                "url": "https://twitter.com/pakkaem"
-            }
-        ] 
-    },
-    {
-        "name": "Balqis Aqilah Syahira",
-        "type": "BE|DP",
-        "membership": "teras 2",
-        "departemen": "Bendahara",
-        "img": "balkon.png",
-        "bio": "Bismillah, dengan izin allah dan restu mama papa aku terima mas sehun jadi suamiku",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/balqisalsya"    
-            }
-        ] 
-    },
-    {
-        "name": "Nur Azizah Khoirunisa",
-        "type": "BE|DP",
-        "membership": "teras 2",
-        "departemen": "Bendahara",
-        "img": "azizah.png",
-        "bio": "AKU SUKA MIE AKU SUKA MIE AKU SUKA MIE AKU SUKA MIE AKU SUKA MIE AKU SUKA MIE AKU SUKA MIE AKU SUKA MIE AKU SUKA MIE AKU SUKA MIE",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/himarpl"    
-            }
-        ] 
-    },
-    {
-        "name": "Ravena",
-        "type": "BE|DP",
-        "membership": "teras 2",
-        "departemen": "Sekretaris",
-        "img": "pena.png",
-        "bio": "Life goes on",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/pvena_/"    
-            }
-        ] 
-    },
-    {
-        "name": "Muhammad Hafidz Ananto",
-        "type": "BE|DP",
-        "membership": "teras 2",
-        "departemen": "Sekretaris",
-        "img": "ananto.png",
-        "bio": "404 NOt foUnd",
-        "sosmed": [
-            {
-                "label":"Gmail",
-                "url": "mailto:hafidzananto@upi.edu"    
-            }
-        ] 
-    },
-    {
-        "name": "Fauzan Sukmapratama",
-        "type": "BE",
-        "membership": "ketua",
-        "departemen": "KOMINFO",
-        "img": "fauzan.png",
-        "bio": "Just Enough is Good Enough",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/fauzanspratama/"    
-            },
-            {
-                "label":"LinkedIn",
-                "url": "https://www.linkedin.com/in/fauzansukmapratama/"
-            }
-        ] 
-    },
-    {
-        "name": "Septian Dwi Putra Pradipta",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "KOMINFO",
-        "img": "septian.png",
-        "bio": "just ordinary people who love nasi padang",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/sptndpp/"    
-            },
-            {
-                "label":"LinkedIn",
-                "url": "https://www.linkedin.com/in/septian-pradipta"
-            },
-            {
-                "label": "Github",
-                "url": "https://github.com/TitamSeptian"
-            }
-        ] 
-    },
-    {
-        "name": "Muhammad Yahya Ayyash",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "KOMINFO",
-        "img": "ayyash.png",
-        "bio": "gatau sih... yaudah lah",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/yaasje_/"    
-            }
-        ] 
-    },
-    {
-        "name": "Abid Mafahim",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "KOMINFO",
-        "img": "abid.png",
-        "bio": "Seorang pacifist dari tanah Cirebon yang lagi tertarik dengan profesi bidang drag and drop",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/abd_maf"    
-            },
-            {
-                "label":"Behance",
-                "url": "https://www.behance.net/abidmafahim"
-            }
-        ] 
-    },
-    {
-        "name": "Muhamad Rayhan Wibowo",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "KOMINFO",
-        "img": "rayhan.png",
-        "bio": "Ngga tau mau nulis apa.",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://instagram.com/rayhanwb"    
-            }
-        ] 
-    },
-    {
-        "name": "Almira Darma Utami F",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "KOMINFO",
-        "img": "almira.png",
-        "bio": "AKU SUKA MIE AKU SUKA MIE AKU SUKA MIE AKU MIE AKU SUKA MIE AKU SUKA MIE",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/dufalmira/"    
-            }
-        ] 
-    },
-    {
-        "name": "Indra Yana Sabihartono",
-        "type": "BE",
-        "membership": "ketua",
-        "departemen": "Pengembangan Diri",
-        "img": "indrayana.png",
-        "bio": "Sesekali, Anda dapat tampil dengan sikap bela rasa, santai, dan sopan, jika itulah yang diharapkan dari Anda, tetapi jangan terlalu mau diatur. Anda boleh melawan hanya untuk menunjukkan bahwa Anda berhak menentukan jalan Anda sendiri.",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/jjyrheu"    
-            }
-        ] 
-    },
-    {
-        "name": "Naufal Fawwaz Andriawan",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "Pengembangan Diri",
-        "img": "naufal.png",
-        "bio": "Aku cinta pemrograman",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/andriawan245"    
-            },
-            {
-                "label":"Twitter",
-                "url": "https://twitter.com/fawaznaufal23"
-            },
-            {
-                "label": "Github",
-                "url": "https://github.com/andriawan24"
-            }
-        ] 
-    },
-    {
-        "name": "Zulfa Nursyadiyah",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "Pengembangan Diri",
-        "img": "zulfa.png",
-        "bio": "Hi December people!! (skip dulu, bingung isi apa) :(",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/zulfasdyaaa"    
-            }
-        ] 
-    },
-    {
-        "name": "Salman Alfarizi",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "Pengembangan Diri",
-        "img": "salman.png",
-        "bio": "Penyuka seblak.",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/salman.alfrz/"    
-            }
-        ] 
-    },
-    {
-        "name": "Dimas Aditya Pratama",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "Pengembangan Diri",
-        "img": "dimas.png",
-        "bio": "AKU SUKA MIE AKU MIE AKU MIE AKU MIE AKU MIE",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/dimsins__/"    
-            }
-        ] 
-    },
-    {
-        "name": "Muhammad Alfian Nurul Yaqien",
-        "type": "BE",
-        "membership": "ketua",
-        "departemen": "PPM & KWU",
-        "img": "alfian.png",
-        "bio": "Heyyo World!! My name is Alfian. Excited to be a part of HIMARPL. Nice to meet you!! So glad that life connects me with such people. This is the journey of self discovery and self growth. Living our best life today. I just wanna be happy.",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://instagram.com/alfiannurulyaqien"    
-            },
-            {
-                "label": "YouTube",
-                "url": "https://www.youtube.com/channel/UCpTME_yU0Y2M80zFfVJ23sQ"
-            }
-        ] 
-    },
-    {
-        "name": "Muhammad Rizki Wahyudie",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "PPM & KWU",
-        "img": "rizky.png",
-        "bio": "Seperti halnya Madridista yang ditinggal Ronaldo, Ramos, Zidane dalam waktu dekat. Perpisahan adalah hal yang terburuk dari pertemuan. Mengsedih",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/rizkiiwhyd/"    
-            }
-        ] 
-    },
-    {
-        "name": "Ali Aziz Fadillah",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "PPM & KWU",
-        "img": "rizky.png",
-        "bio": "meong.. meong.. meong meong.... meong meong.. menggonggong",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/alifadill/"    
-            },
-            {
-                "label":"Twitter",
-                "url":"https://mobile.twitter.com/fvckabis"
-            }
-        ] 
-    },
-    {
-        "name": "Fajar Nasrinul Haq",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "PPM & KWU",
-        "img": "fajar.png",
-        "bio": "Seorang anak yang ingin membahagiakan orangtuanya",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/fajarnashirul/"    
-            }
-        ] 
-    },
-    {
-        "name": "Muhamad Ariq Alwi Masyhur",
-        "type": "BE",
-        "membership": "ketua",
-        "departemen": "PSDO",
-        "img": "ariq.png",
-        "bio": "'The Most Important thing is to try and inspire people so that they can be great in whatever they want to do.'- Kobe Bryant",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/ariqmhmd_/"    
-            },
-            {
-                "label":"Twitter",
-                "url":"https://twitter.com/ariqmhmd_"
-            },
-            {
-                "label":"Github",
-                "url":"https://github.com/muhamadariq-09"
-            },
-            {
-                "label":"Twitter",
-                "url": "https://www.linkedin.com/in/muhamad-ariq-alwi-masyhur-76b6b91a7/"
-            }
-        ] 
-    },
-    {
-        "name": "Azzahra Ayu Vahendra",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "PSDO",
-        "img": "azzahra.png",
-        "bio": "Hidup memang banyak cobaan, kalau sedikit namanya cobain.",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/azzahraayu_aav/"    
-            }
-        ] 
-    },
-    {
-        "name": "Bagus Subagja",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "PSDO",
-        "img": "bagus.png",
-        "bio": "Aku adalah seorang mahasiswa dengan kepribadian ISTJ yang selalu termotivasi untuk berusaha yang terbaik, berpikir kritis serta kreatif. ",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/bagussubagjaa"    
-            },
-            {
-                "label":"Twitter",
-                "url": "https://twitter.com/mantequilla17_"
-            }
-        ] 
-    },
-    {
-        "name": "Faaris Muda Dwi Nugraha",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "PSDO",
-        "img": "faris.png",
-        "bio": "Stimulate your passion!",
-        "sosmed": [
-            {
-                "label":"LinkedIn",
-                "url": "https://www.linkedin.com/in/faaris"    
-            },
-            {
-                "label":"Website",
-                "url": "www.faaris.id"
-            }
-        ] 
-    },
-    {
-        "name": "Mohammad Aditya Ferdian",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "PSDO",
-        "img": "adit.png",
-        "bio": "Tutup dahulu laptopmu, mari ngopi bersamaku:)",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/aditfrdnn"    
-            },
-            {
-                "label":"LinkedIn",
-                "url": "https://www.linkedin.com/in/mohammad-aditya-ferdian-86a9aa223"
-            }
-        ] 
-    },
-    {
-        "name": "Muhammad Nurul Huda",
-        "type": "BE",
-        "membership": "ketua",
-        "departemen": "Advokasi dan Kajian Strategis",
-        "img": "huda.png",
-        "bio": "AKU SUKA MIE AKU SUKA MIE AKU MIE AKU MIE AKU MIE AKU MIE AKU MIE",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/m.nurulhuda16/"    
-            }
-        ] 
-    },
-    {
-        "name": "Irham Nur Alim",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "Advokasi dan Kajian Strategis",
-        "img": "irham.png",
-        "bio": "Bismillah #2022MasukREMA",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/nuralimirham/"    
-            },
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/irhamnur21/"    
-            },
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/inurai21/"    
-            }
-        ] 
-    },
-    {
-        "name": "Rangga Kalam Sidiq",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "Advokasi dan Kajian Strategis",
-        "img": "rangga.png",
-        "bio": "Jangan lupa tidur.",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/ranggakalms/"    
-            }
-        ] 
-    },
-    {
-        "name": "Amtsal Fauzi Hakim",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "Advokasi dan Kajian Strategis",
-        "img": "amsal.png",
-        "bio": "jalani, rasakan, nikmati, jangan buru-buru, semua butuh waktu.",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/_afazih/"    
-            },
-            {
-                "label": "Facebook",
-                "url": "https://www.facebook.com/amtsal.hakim"
-            },
-            {
-                "label": "Twitter",
-                "url": "https://id.linkedin.com/in/amtsal-fauzi-hakim-6562901bb"
-            }
-        ] 
-    },
-    {
-        "name": "Rangga Kalam Sidiq",
-        "type": "BE",
-        "membership": "staff",
-        "departemen": "Advokasi dan Kajian Strategis",
-        "img": "rangga.png",
-        "bio": "Jangan lupa tidur.",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/ranggakalms/"    
-            }
-        ] 
-    },
-    {
-        "name": "Fikri Habib Ramadhan",
-        "type": "DP",
-        "membership": "ketua",
-        "departemen": "Komisi 1",
-        "img": "fikrihabib.png",
-        "bio": "HIDUP SEPERTI LARRY<br>by : Patrick",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/fikri_ebod/"    
-            }
-        ] 
-    },
-    {
-        "name": "Fikri Arif Rahman",
-        "type": "DP",
-        "membership": "staff",
-        "departemen": "Komisi 1",
-        "img": "fikriarif.png",
-        "bio": "Assalamualaikum wr.wb<br/>Khuṇ xāc mị̀ s̄āmārt̄h rdn̂ả dxkmị̂ thī̀ r̀wngroy læa h̄wạng ẁā dxkmị̂ ca bān xīk khrậng tæ̀ khuṇ s̄āmārt̄h plūk dxkmị̂ h̄ım̀ d̂wy khwām h̄wạng thī̀ dī kẁā deim dị̂",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/fikri_aryf/"    
-            }
-        ] 
-    },
-    {
-        "name": "Nassya Putri Riyani",
-        "type": "DP",
-        "membership": "staff",
-        "departemen": "Komisi 1",
-        "img": "nassya.png",
-        "bio": "Always doing good. Be Kind. It'll come back to you in unexpected ways. <3",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/nassyapr/"    
-            },
-            {
-                "label":"Twitter",
-                "url": "https://twitter.com/itsmenayyy"
-            },
-            {
-                "label":"LinkedIn",
-                "url":"https://www.linkedin.com/in/nassya-putri-riyani-b00a37174/"
-            }
-        ] 
-    },
-    {
-        "name": "Riyandi Firman Pratama",
-        "type": "DP",
-        "membership": "staff",
-        "departemen": "Komisi 1",
-        "img": "riyandi.png",
-        "bio": "Atlet angkat derajat orang tua",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://www.instagram.com/riyandifirman/"    
-            },
-            {
-                "label":"LinkedIn",
-                "url":"https://www.linkedin.com/in/riyandifirman/"
-            }
-        ] 
-    },
-    {
-        "name": "Aryaputra Haidar Akbar",
-        "type": "DP",
-        "membership": "ketua",
-        "departemen": "Komisi 2",
-        "img": "arya.png",
-        "bio": "Nggak galak da, itu mah foto nya doang sok galak. <br/> Untuk mengawasi orang, Anda harus melampaui mereka dalam prestasi mereka atau membenci mereka.'Benjamin'",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://instagram.com/aryaptrha"    
-            },
-            {
-                "label":"Facebook",
-                "url":"https://www.facebook.com/aryaputra.akbar"
-            }
-        ] 
-    },
-    {
-        "name": "Muhamad Ilham Nuari",
-        "type": "DP",
-        "membership": "staff",
-        "departemen": "Komisi 2",
-        "img": "ilham.png",
-        "bio": "we can live in the world that we design",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://instagram.com/ilhmnuari"    
-            }
-        ] 
-    },
-    {
-        "name": "Dhafin Taufiqi",
-        "type": "DP",
-        "membership": "staff",
-        "departemen": "Komisi 2",
-        "img": "dhafin.png",
-        "bio": "Jadikan teorimu menjadi hukum yang mutlak dan buatlah malaikat raqib terus mencatat",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://instagram.com/davingroove"    
-            }
-        ] 
-    },
-    {
-        "name": "David Basar",
-        "type": "DP",
-        "membership": "staff",
-        "departemen": "Komisi 2",
-        "img": "david.png",
-        "bio": "Berhasil tak Dipuji, Gagal Dicaci Maki, Hilang tak Dicari, Mati tak Diakui",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://instagram.com/davidbasarmarbun"    
-            }
-        ] 
-    },
-    {
-        "name": "Ivan Sufian",
-        "type": "DP",
-        "membership": "staff",
-        "departemen": "Komisi 2",
-        "img": "ivan.png",
-        "bio": "Empty set (0.00 sec).",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://instagram.com/ivansufian8"    
-            }
-        ] 
-    },
-    {
-        "name": "Reyhan Agus Priyatna",
-        "type": "DP",
-        "membership": "staff",
-        "departemen": "Komisi 2",
-        "img": "reyhan.png",
-        "bio": "Wong Cirebon Jeh! ",
-        "sosmed": [
-            {
-                "label":"Instagram",
-                "url": "https://instagram.com/reyhan_priyatna"    
-            },
-            {
-                "label":"Twitter",
-                "url": "https://twitter.com/mang_ujang36"
-            },
-            {
-                "label":"LinkedIn",
-                "url": "https://www.linkedin.com/in/reyhan-agus-priyatna-8829791a1/"
-            }
-        ] 
-    }
+  {
+    "name": "Muhammad Reynaldi",
+    "type": "BE",
+    "membership": "teras 1",
+    "departemen": "Ketua BE",
+    "img": "reynaldi.png",
+    "bio": "Kata mama jangan lupa belajar sambil bermain, kira - kira gitulah sampai sekarang.",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/muhreynaldii/"
+      }
+    ]
+  },
+  {
+    "name": "Naufal Geraldi Hendarman",
+    "type": "BE",
+    "membership": "teras 1",
+    "departemen": "Wakil Ketua BE",
+    "img": "geraldi.png",
+    "bio": "Life is like the art of drawing without an eraser, so live a life you will remember.",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/naufalgeraldi/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/naufalgeraldi/"
+      }
+    ]
+  },
+  {
+    "name": "Athoillah Sholahuddin",
+    "type": "DP",
+    "membership": "teras 1",
+    "departemen": "Ketua DP",
+    "img": "atho.png",
+    "bio": "Hanya mau hidup bahagia, bahagia untuk diri sendiri dengan cintai dirimu. Terus berprogress walau hanya 0,001% dan terus konsisten",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/athsolah/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/athoillah-sholahuddin-8646ab1a8/"
+      }
+    ]
+  },
+  {
+    "name": "Arfi Triawan",
+    "type": "DP",
+    "membership": "teras 1",
+    "departemen": "Wakil Ketua DP",
+    "img": "arfi.png",
+    "bio": "Virgo. Introvert. Diajak nonton anime + main Mobile Legends, The Sims, Football Manager, dan Minecraft gaskan banget. Jangan sungkan buat kenalan dan diskusi karena tak kenal maka tak sayang.",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/arfitriawan19"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/arfi-triawan-959a651b2/"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/pakkaem"
+      }
+    ]
+  },
+  {
+    "name": "Balqis Aqilah Syahira",
+    "type": "BE|DP",
+    "membership": "teras 2",
+    "departemen": "Bendahara",
+    "img": "balkon.png",
+    "bio": "Bismillah, dengan izin allah dan restu mama papa aku terima mas sehun jadi suamiku",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/balqisalsya"
+      }
+    ]
+  },
+  {
+    "name": "Nur 'Azizah Khoirunnisa",
+    "type": "BE|DP",
+    "membership": "teras 2",
+    "departemen": "Bendahara",
+    "img": "ajijah.png",
+    "bio": "Hey, I'm sorry but can you leave me alone? <br>It's none of your business, i do my own business.",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/nur.aziiiizah"
+      }
+    ]
+  },
+  {
+    "name": "Ravena",
+    "type": "BE|DP",
+    "membership": "teras 2",
+    "departemen": "Sekretaris",
+    "img": "pena.png",
+    "bio": "Life goes on",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/pvena_/"
+      }
+    ]
+  },
+  {
+    "name": "Muhammad Hafidz Ananto",
+    "type": "BE|DP",
+    "membership": "teras 2",
+    "departemen": "Sekretaris",
+    "img": "ananto.png",
+    "bio": "404 NOt foUnd",
+    "sosmed": [
+      {
+        "label": "Gmail",
+        "url": "mailto:hafidzananto@upi.edu"
+      }
+    ]
+  },
+  {
+    "name": "Fauzan Sukmapratama",
+    "type": "BE",
+    "membership": "ketua",
+    "departemen": "KOMINFO",
+    "img": "fauzan.png",
+    "bio": "Just Enough is Good Enough",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/fauzanspratama/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/fauzansukmapratama/"
+      }
+    ]
+  },
+  {
+    "name": "Septian Dwi Putra Pradipta",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "KOMINFO",
+    "img": "septian.png",
+    "bio": "just ordinary people who love nasi padang",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/sptndpp/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/septian-pradipta"
+      },
+      {
+        "label": "Github",
+        "url": "https://github.com/TitamSeptian"
+      }
+    ]
+  },
+  {
+    "name": "Muhammad Yahya Ayyash",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "KOMINFO",
+    "img": "ayyash.png",
+    "bio": "gatau sih... yaudah lah",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/yaasje_/"
+      }
+    ]
+  },
+  {
+    "name": "Abid Mafahim",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "KOMINFO",
+    "img": "abid.png",
+    "bio": "Seorang pacifist dari tanah Cirebon yang lagi tertarik dengan profesi bidang drag and drop",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/abd_maf"
+      },
+      {
+        "label": "Behance",
+        "url": "https://www.behance.net/abidmafahim"
+      }
+    ]
+  },
+  {
+    "name": "Muhamad Rayhan Wibowo",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "KOMINFO",
+    "img": "rayhan.png",
+    "bio": "Ngga tau mau nulis apa.",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/rayhanwb"
+      }
+    ]
+  },
+  {
+    "name": "Almira Darma Utami F",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "KOMINFO",
+    "img": "almira.png",
+    "bio": "AKU SUKA MIE AKU SUKA MIE AKU SUKA MIE AKU MIE AKU SUKA MIE AKU SUKA MIE",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/dufalmira/"
+      }
+    ]
+  },
+  {
+    "name": "Indra Yana Sabihartono",
+    "type": "BE",
+    "membership": "ketua",
+    "departemen": "Pengembangan Diri",
+    "img": "indrayana.png",
+    "bio": "Sesekali, Anda dapat tampil dengan sikap bela rasa, santai, dan sopan, jika itulah yang diharapkan dari Anda, tetapi jangan terlalu mau diatur. Anda boleh melawan hanya untuk menunjukkan bahwa Anda berhak menentukan jalan Anda sendiri.",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/jjyrheu"
+      }
+    ]
+  },
+  {
+    "name": "Naufal Fawwaz Andriawan",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "Pengembangan Diri",
+    "img": "naufal.png",
+    "bio": "Aku cinta pemrograman",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/andriawan245"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/fawaznaufal23"
+      },
+      {
+        "label": "Github",
+        "url": "https://github.com/andriawan24"
+      }
+    ]
+  },
+  {
+    "name": "Zulfa Nursyadiyah",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "Pengembangan Diri",
+    "img": "zulfa.png",
+    "bio": "Hi December people!! (skip dulu, bingung isi apa) :(",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/zulfasdyaaa"
+      }
+    ]
+  },
+  {
+    "name": "Salman Alfarizi",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "Pengembangan Diri",
+    "img": "salman.png",
+    "bio": "Penyuka seblak.",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/salman.alfrz/"
+      }
+    ]
+  },
+  {
+    "name": "Dimas Aditya Pratama",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "Pengembangan Diri",
+    "img": "dimas.png",
+    "bio": "AKU SUKA MIE AKU MIE AKU MIE AKU MIE AKU MIE",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/dimsins__/"
+      }
+    ]
+  },
+  {
+    "name": "Muhammad Alfian Nurul Yaqien",
+    "type": "BE",
+    "membership": "ketua",
+    "departemen": "PPM & KWU",
+    "img": "alfian.png",
+    "bio": "Heyyo World!! My name is Alfian. Excited to be a part of HIMARPL. Nice to meet you!! So glad that life connects me with such people. This is the journey of self discovery and self growth. Living our best life today. I just wanna be happy.",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/alfiannurulyaqien"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCpTME_yU0Y2M80zFfVJ23sQ"
+      }
+    ]
+  },
+  {
+    "name": "Muhammad Rizki Wahyudie",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "PPM & KWU",
+    "img": "rizky.png",
+    "bio": "Seperti halnya Madridista yang ditinggal Ronaldo, Ramos, Zidane dalam waktu dekat. Perpisahan adalah hal yang terburuk dari pertemuan. Mengsedih",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/rizkiiwhyd/"
+      }
+    ]
+  },
+  {
+    "name": "Ali Aziz Fadillah",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "PPM & KWU",
+    "img": "rizky.png",
+    "bio": "meong.. meong.. meong meong.... meong meong.. menggonggong",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/alifadill/"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://mobile.twitter.com/fvckabis"
+      }
+    ]
+  },
+  {
+    "name": "Fajar Nasrinul Haq",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "PPM & KWU",
+    "img": "fajar.png",
+    "bio": "Seorang anak yang ingin membahagiakan orangtuanya",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/fajarnashirul/"
+      }
+    ]
+  },
+  {
+    "name": "Muhamad Ariq Alwi Masyhur",
+    "type": "BE",
+    "membership": "ketua",
+    "departemen": "PSDO",
+    "img": "ariq.png",
+    "bio": "'The Most Important thing is to try and inspire people so that they can be great in whatever they want to do.'- Kobe Bryant",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ariqmhmd_/"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/ariqmhmd_"
+      },
+      {
+        "label": "Github",
+        "url": "https://github.com/muhamadariq-09"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://www.linkedin.com/in/muhamad-ariq-alwi-masyhur-76b6b91a7/"
+      }
+    ]
+  },
+  {
+    "name": "Azzahra Ayu Vahendra",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "PSDO",
+    "img": "azzahra.png",
+    "bio": "Hidup memang banyak cobaan, kalau sedikit namanya cobain.",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/azzahraayu_aav/"
+      }
+    ]
+  },
+  {
+    "name": "Bagus Subagja",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "PSDO",
+    "img": "bagus.png",
+    "bio": "Aku adalah seorang mahasiswa dengan kepribadian ISTJ yang selalu termotivasi untuk berusaha yang terbaik, berpikir kritis serta kreatif. ",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/bagussubagjaa"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/mantequilla17_"
+      }
+    ]
+  },
+  {
+    "name": "Faaris Muda Dwi Nugraha",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "PSDO",
+    "img": "faris.png",
+    "bio": "Stimulate your passion!",
+    "sosmed": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/faaris"
+      },
+      {
+        "label": "Website",
+        "url": "www.faaris.id"
+      }
+    ]
+  },
+  {
+    "name": "Mohammad Aditya Ferdian",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "PSDO",
+    "img": "adit.png",
+    "bio": "Tutup dahulu laptopmu, mari ngopi bersamaku:)",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/aditfrdnn"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/mohammad-aditya-ferdian-86a9aa223"
+      }
+    ]
+  },
+  {
+    "name": "Muhammad Nurul Huda",
+    "type": "BE",
+    "membership": "ketua",
+    "departemen": "Advokasi dan Kajian Strategis",
+    "img": "huda.png",
+    "bio": "AKU SUKA MIE AKU SUKA MIE AKU MIE AKU MIE AKU MIE AKU MIE AKU MIE",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/m.nurulhuda16/"
+      }
+    ]
+  },
+  {
+    "name": "Irham Nur Alim",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "Advokasi dan Kajian Strategis",
+    "img": "irham.png",
+    "bio": "Bismillah #2022MasukREMA",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/nuralimirham/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/irhamnur21/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/inurai21/"
+      }
+    ]
+  },
+  {
+    "name": "Rangga Kalam Sidiq",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "Advokasi dan Kajian Strategis",
+    "img": "rangga.png",
+    "bio": "Jangan lupa tidur.",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ranggakalms/"
+      }
+    ]
+  },
+  {
+    "name": "Amtsal Fauzi Hakim",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "Advokasi dan Kajian Strategis",
+    "img": "amsal.png",
+    "bio": "jalani, rasakan, nikmati, jangan buru-buru, semua butuh waktu.",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/_afazih/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/amtsal.hakim"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://id.linkedin.com/in/amtsal-fauzi-hakim-6562901bb"
+      }
+    ]
+  },
+  {
+    "name": "Rangga Kalam Sidiq",
+    "type": "BE",
+    "membership": "staff",
+    "departemen": "Advokasi dan Kajian Strategis",
+    "img": "rangga.png",
+    "bio": "Jangan lupa tidur.",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ranggakalms/"
+      }
+    ]
+  },
+  {
+    "name": "Fikri Habib Ramadhan",
+    "type": "DP",
+    "membership": "ketua",
+    "departemen": "Komisi 1",
+    "img": "fikrihabib.png",
+    "bio": "HIDUP SEPERTI LARRY<br>by : Patrick",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/fikri_ebod/"
+      }
+    ]
+  },
+  {
+    "name": "Fikri Arif Rahman",
+    "type": "DP",
+    "membership": "staff",
+    "departemen": "Komisi 1",
+    "img": "fikriarif.png",
+    "bio": "Assalamualaikum wr.wb<br/>Khuṇ xāc mị̀ s̄āmārt̄h rdn̂ả dxkmị̂ thī̀ r̀wngroy læa h̄wạng ẁā dxkmị̂ ca bān xīk khrậng tæ̀ khuṇ s̄āmārt̄h plūk dxkmị̂ h̄ım̀ d̂wy khwām h̄wạng thī̀ dī kẁā deim dị̂",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/fikri_aryf/"
+      }
+    ]
+  },
+  {
+    "name": "Nassya Putri Riyani",
+    "type": "DP",
+    "membership": "staff",
+    "departemen": "Komisi 1",
+    "img": "nassya.png",
+    "bio": "Always doing good. Be Kind. It'll come back to you in unexpected ways. <3",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/nassyapr/"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/itsmenayyy"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/nassya-putri-riyani-b00a37174/"
+      }
+    ]
+  },
+  {
+    "name": "Riyandi Firman Pratama",
+    "type": "DP",
+    "membership": "staff",
+    "departemen": "Komisi 1",
+    "img": "riyandi.png",
+    "bio": "Atlet angkat derajat orang tua",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/riyandifirman/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/riyandifirman/"
+      }
+    ]
+  },
+  {
+    "name": "Aryaputra Haidar Akbar",
+    "type": "DP",
+    "membership": "ketua",
+    "departemen": "Komisi 2",
+    "img": "arya.png",
+    "bio": "Nggak galak da, itu mah foto nya doang sok galak. <br/> Untuk mengawasi orang, Anda harus melampaui mereka dalam prestasi mereka atau membenci mereka.'Benjamin'",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/aryaptrha"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/aryaputra.akbar"
+      }
+    ]
+  },
+  {
+    "name": "Muhamad Ilham Nuari",
+    "type": "DP",
+    "membership": "staff",
+    "departemen": "Komisi 2",
+    "img": "ilham.png",
+    "bio": "we can live in the world that we design",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/ilhmnuari"
+      }
+    ]
+  },
+  {
+    "name": "Dhafin Taufiqi",
+    "type": "DP",
+    "membership": "staff",
+    "departemen": "Komisi 2",
+    "img": "dhafin.png",
+    "bio": "Jadikan teorimu menjadi hukum yang mutlak dan buatlah malaikat raqib terus mencatat",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/davingroove"
+      }
+    ]
+  },
+  {
+    "name": "David Basar",
+    "type": "DP",
+    "membership": "staff",
+    "departemen": "Komisi 2",
+    "img": "david.png",
+    "bio": "Berhasil tak Dipuji, Gagal Dicaci Maki, Hilang tak Dicari, Mati tak Diakui",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/davidbasarmarbun"
+      }
+    ]
+  },
+  {
+    "name": "Ivan Sufian",
+    "type": "DP",
+    "membership": "staff",
+    "departemen": "Komisi 2",
+    "img": "ivan.png",
+    "bio": "Empty set (0.00 sec).",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/ivansufian8"
+      }
+    ]
+  },
+  {
+    "name": "Reyhan Agus Priyatna",
+    "type": "DP",
+    "membership": "staff",
+    "departemen": "Komisi 2",
+    "img": "reyhan.png",
+    "bio": "Wong Cirebon Jeh! ",
+    "sosmed": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/reyhan_priyatna"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/mang_ujang36"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/reyhan-agus-priyatna-8829791a1/"
+      }
+    ]
+  }
 ]
