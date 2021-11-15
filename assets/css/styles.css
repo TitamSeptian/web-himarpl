@@ -959,3 +959,32 @@ svg {
 .desc-logo-kabinet h5 {
   color: var(--ins-color-1);
 }
+
+/* Blog */
+.blog-main {
+  max-width: 1165px;
+  margin: auto;
+}
+
+.blog-content .blog-article {
+  padding: 0 1rem;
+}
+
+.blog-content aside.media-social {
+  position: static;
+}
+
+.blog-content .media-social .media-social-container a {
+  width: 35px;
+}
+
+@media (min-width: 576px) {
+  .blog-content .blog-article {
+    padding: 0 5rem;
+  }
+
+  .blog-content aside.media-social {
+    position: sticky;
+    top: 100px;
+  }
+}
