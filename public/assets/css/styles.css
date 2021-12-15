@@ -942,6 +942,11 @@ svg {
     .text-footer {
         font-size: 2rem;
     }
+
+    #komunitas div div .col-md-6 div h1 {
+        /* color: red; */
+        font-size: 2rem;
+    }
 }
 
 @media (max-width: 576px) {
@@ -1002,6 +1007,8 @@ svg {
     }
 }
 
+/* komunitas */
+
 #komunitas {
     background-color: var(--black-1) !important;
 }
@@ -1020,4 +1027,22 @@ svg {
     background-color: var(--color-2) !important;
     /* box-shadow: 0px -10px 50px #fff; */
     box-shadow: 0px 50px 100px -50px rgb(114, 114, 114) !important;
+}
+
+#kegiatan {
+    background-color: var(--black-1);
+}
+
+.kegiatan {
+    border-radius: 10px;
+    width: 100%;
+    height: auto !important;
+    background-color: var(--color-2);
+    border: 2px solid rgb(233, 102, 41);
+    color: #000;
+}
+
+.kegiatan h3 {
+    text-align: center;
+    font-weight: 700;
 }
