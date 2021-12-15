@@ -56,4 +56,14 @@ class LandingController extends Controller
         $bio = $data;
         return view("landing.sekretariat", compact('bio'));
     }
+
+    public function komunitas()
+    {
+        return view("landing.komunitas");
+    }
+
+    public function kompetegram()
+    {
+        return view("landing.kompetegram");
+    }
 }

@@ -22,7 +22,11 @@ Route::get('/gallery', [LandingController::class, "gallery"])->name("gallery");
 Route::get('/about', [LandingController::class, "about"])->name("about");
 Route::get('/contact', [LandingController::class, "contact"])->name("contact");
 Route::get('/sekretariat', [LandingController::class, "sekretariat"])->name("sekretariat");
-Route::get('/komunitas', [LandingController::class, "komunitas"])->name("komunitas");
+
+Route::prefix('/komunitas')->group(function (){
+    Route::get('/', [LandingController::class, "komunitas"])->name("komunitas");
+    Route::get('/kompetegram', [LandingController::class, "kompetegram"])->name("kompetegram");
+});
 
 Route::get('/tree', [LandingController::class, "tree"])->name("tree");
 

@@ -25,7 +25,7 @@
         </div>
         <div class="content">
             <!-- banner(gambar sisingaan) ada di styles.css -->
-            <img src="{{ asset('/asset/img/logo-hima-polos') }}" alt="Img viewer" id="img-viewed">
+            <img src="{{ asset('/assets/img/logo-hima-polos.png') }}" alt="Img viewer" id="img-viewed">
             <div class="caption">
                 <h1 class="title"></h1>
                 <div class="text"></div>
@@ -38,7 +38,7 @@
     <div class="preloader">
         <div class="center">
             <div class="wrapper text-center">
-                <img src="./assets/img/logo-kabinet.png" alt="logo kabinet" data-aos="zoom-in-up">
+                <img src="{{ asset('/assets/img/logo-kabinet.png') }}" alt="logo kabinet" data-aos="zoom-in-up">
                 <h2 class="preloader-text font-weight-bold" data-aos="zoom-in-up">HIMARPL | KABINET INSPIRA</h2>
                 <div class="spinner" data-aos="zoom-in-down">
                     <div class="dot1"></div>
@@ -46,14 +46,15 @@
                 </div>
             </div>
         </div>
-        <img src="./assets/img/logo-hima-polos.png" alt="logo hima" class="image-helper" data-aos="zoom-in-down">
+        <img src="{{ asset('/assets/img/logo-hima-polos.png') }}" alt="logo hima" class="image-helper"
+            data-aos="zoom-in-down">
     </div>
     <header class="header">
         <nav class="navbar navbar-expand-lg fixed-top py-3">
             <div class="container">
                 <!-- <img src="./assets/img/logo-hima-polos.png" class="navbar-brand logo-navbar"> -->
                 <a href="index.html" class="navbar-brand text-uppercase font-weight-bold">
-                    <img src="./assets/img/logo-hima-polos.png" width="53" height="43">
+                    <img src="{{ asset('/assets/img/logo-hima-polos.png') }}" width="53" height="43">
                 </a>
                 <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"
@@ -61,8 +62,9 @@
 
                 <div id="navbarSupportedContent" class="collapse navbar-collapse">
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item {{ $active == 'home' ? 'active2' : '' }}"><a href="{{ route('home') }}"
-                                class="nav-link text-uppercase font-weight-bold">Home</a></li>
+                        <li class="nav-item {{ $active == 'home' ? 'active2' : '' }}"><a
+                                href="{{ route('home') }}" class="nav-link text-uppercase font-weight-bold">Home</a>
+                        </li>
                         <li class="nav-item {{ $active == 'be' ? 'active2' : '' }} "><a href="{{ route('be') }}"
                                 class="nav-link text-uppercase font-weight-bold">BE</a>
                         </li>
@@ -72,6 +74,9 @@
                         <li class="nav-item {{ $active == 'sekretariat' ? 'active2' : '' }} "><a
                                 href="{{ route('sekretariat') }}"
                                 class="nav-link text-uppercase font-weight-bold">Sekretariat</a></li>
+                        <li class="nav-item {{ $active == 'komunitas' ? 'active2' : '' }} "><a
+                                href="{{ route('komunitas') }}"
+                                class="nav-link text-uppercase font-weight-bold">Komunitas</a></li>
                         <li class="nav-item {{ $active == 'gallery' ? 'active2' : '' }} "><a
                                 href="{{ route('gallery') }}"
                                 class="nav-link text-uppercase font-weight-bold">Gallery</a></li>

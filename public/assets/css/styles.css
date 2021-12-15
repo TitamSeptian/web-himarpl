@@ -1001,3 +1001,23 @@ svg {
         top: 100px;
     }
 }
+
+#komunitas {
+    background-color: var(--black-1) !important;
+}
+
+.bg-black {
+    background-color: var(--black-1) !important;
+}
+
+.card-hover {
+}
+
+.card-hover:hover {
+    transform: translate(0px, -15px);
+
+    transition: 0.5s ease-in-out;
+    background-color: var(--color-2) !important;
+    /* box-shadow: 0px -10px 50px #fff; */
+    box-shadow: 0px 50px 100px -50px rgb(114, 114, 114) !important;
+}
