@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Http;
 
 class LandingController extends Controller
 {
@@ -13,12 +14,19 @@ class LandingController extends Controller
 
     public function be()
     {
-        return view("landing.be");
+        $jsonString = file_get_contents(base_path('public\bio\be.json'));
+        $data = json_decode($jsonString, true);
+        $bio = $data;
+        // dd($data);
+        return view("landing.be", compact("bio"));
     }
 
     public function dp()
     {
-        return view("landing.dp");
+        $jsonString = file_get_contents(base_path('public\bio\dp.json'));
+        $data = json_decode($jsonString, true);
+        $bio = $data;
+        return view("landing.dp", compact('bio'));
     }
 
     public function gallery()
