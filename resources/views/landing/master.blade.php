@@ -38,7 +38,8 @@
     <div class="preloader">
         <div class="center">
             <div class="wrapper text-center">
-                <img src="{{ asset('/assets/img/logo-kabinet.png') }}" alt="logo kabinet" data-aos="zoom-in-up">
+                <img src="{{ asset('/assets/img/logo-kabinet.png') }}" class="img-fluid" alt="logo kabinet"
+                    data-aos="zoom-in-up">
                 <h2 class="preloader-text font-weight-bold" data-aos="zoom-in-up">HIMARPL | KABINET INSPIRA</h2>
                 <div class="spinner" data-aos="zoom-in-down">
                     <div class="dot1"></div>
