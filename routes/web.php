@@ -21,6 +21,10 @@ Route::get('/dp', [LandingController::class, "dp"])->name("dp");
 Route::get('/gallery', [LandingController::class, "gallery"])->name("gallery");
 Route::get('/about', [LandingController::class, "about"])->name("about");
 Route::get('/contact', [LandingController::class, "contact"])->name("contact");
+Route::get('/sekretariat', [LandingController::class, "sekretariat"])->name("sekretariat");
+Route::get('/komunitas', [LandingController::class, "komunitas"])->name("komunitas");
+
+Route::get('/tree', [LandingController::class, "tree"])->name("tree");
 
 Route::prefix('/blog')->name('blog.')->group(function () {
     Route::get("/", [BlogController::class, "index"])->name("index");

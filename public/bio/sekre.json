@@ -1,0 +1,68 @@
+[
+    {
+        "departemen": "Sekretaris",
+        "member": [
+            {
+                "name": "Ravena",
+                "type": "BE|DP",
+                "membership": "",
+                "departemen": "Sekretaris",
+                "img": "pena.png",
+                "bio": "Life goes on",
+                "sosmed": [
+                    {
+                        "label": "Instagram",
+                        "url": "https://www.instagram.com/pvena_/"
+                    }
+                ]
+            },
+            {
+                "name": "Muhammad Hafidz Ananto",
+                "type": "BE|DP",
+                "membership": "",
+                "departemen": "Sekretaris",
+                "img": "ananto.png",
+                "bio": "404 NOt foUnd",
+                "sosmed": [
+                    {
+                        "label": "Gmail",
+                        "url": "mailto:hafidzananto@upi.edu"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "departemen": "Bendahara",
+        "member": [
+            {
+                "name": "Balqis Aqilah Syahira",
+                "type": "BE|DP",
+                "membership": "",
+                "departemen": "Bendahara",
+                "img": "balkon.png",
+                "bio": "Bismillah, dengan izin allah dan restu mama papa aku terima mas sehun jadi suamiku",
+                "sosmed": [
+                    {
+                        "label": "Instagram",
+                        "url": "https://www.instagram.com/balqisalsya"
+                    }
+                ]
+            },
+            {
+                "name": "Nur 'Azizah Khoirunnisa",
+                "type": "BE|DP",
+                "membership": "",
+                "departemen": "Bendahara",
+                "img": "ajijah.png",
+                "bio": "Hey, I'm sorry but can you leave me alone? <br>It's none of your business, i do my own business.",
+                "sosmed": [
+                    {
+                        "label": "Instagram",
+                        "url": "https://www.instagram.com/nur.aziiiizah"
+                    }
+                ]
+            }
+        ]
+    }
+]

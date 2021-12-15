@@ -69,6 +69,9 @@
                         <li class="nav-item {{ $active == 'dp' ? 'active2' : '' }} "><a href="{{ route('dp') }}"
                                 class="nav-link text-uppercase font-weight-bold">dp</a>
                         </li>
+                        <li class="nav-item {{ $active == 'sekretariat' ? 'active2' : '' }} "><a
+                                href="{{ route('sekretariat') }}"
+                                class="nav-link text-uppercase font-weight-bold">Sekretariat</a></li>
                         <li class="nav-item {{ $active == 'gallery' ? 'active2' : '' }} "><a
                                 href="{{ route('gallery') }}"
                                 class="nav-link text-uppercase font-weight-bold">Gallery</a></li>
@@ -113,7 +116,7 @@
                                 fill="#585858" />
                         </svg>
                     </a>
-                    <a href="https://www.instagram.com/himarpl/" data-aos="flip-left" target="_blank">
+                    <a href="https://www.facebook.com/himarpl/" data-aos="flip-left" target="_blank">
 
                         <svg class="social-footer ml-2" width="35" height="35" viewBox="0 0 56 56" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
@@ -122,7 +125,8 @@
                                 fill="#585858" />
                         </svg>
                     </a>
-                    <a href="https://www.instagram.com/himarpl/" data-aos="flip-left" target="_blank">
+                    <a href="https://www.linkedin.com/company/himpunan-mahasiswa-rekayasa-perangkat-lunak-upi/"
+                        data-aos="flip-left" target="_blank">
 
                         <svg class="social-footer ml-2" width="35" height="35" viewBox="0 0 56 56" fill="none"
                             xmlns="http://www.w3.org/2000/svg">
@@ -131,7 +135,8 @@
                                 fill="#585858" />
                         </svg>
                     </a>
-                    <a href="https://www.instagram.com/himarpl/" data-aos="flip-left" target="_blank">
+                    <a href="https://api.whatsapp.com/send/?phone=6281324941403&text&app_absent=0" data-aos="flip-left"
+                        target="_blank">
 
                         <svg class="social-footer ml-2" width="35" height="35" viewBox="0 0 56 56" fill="none"
                             xmlns="http://www.w3.org/2000/svg">

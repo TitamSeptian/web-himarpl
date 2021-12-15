@@ -43,4 +43,17 @@ class LandingController extends Controller
     {
         return view("landing.contact");
     }
+
+    public function tree()
+    {
+        return view("tree");
+    }
+
+    public function sekretariat()
+    {
+        $jsonString = file_get_contents(base_path('public\bio\sekre.json'));
+        $data = json_decode($jsonString, true);
+        $bio = $data;
+        return view("landing.sekretariat", compact('bio'));
+    }
 }
