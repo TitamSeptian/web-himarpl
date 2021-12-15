@@ -12,18 +12,16 @@
                 <div class="contact-detail row d-flex align-items-center justify-content-center">
                     <iframe class="col-sm w-100"
                         src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3960.5873051982853!2d107.72421260048698!3d-6.939825131891644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e68c323777ca3a1%3A0x355eff6734ed9167!2sUniversitas%20Pendidikan%20Indonesia%2C%20Kampus%20UPI%20di%20Cibiru!5e0!3m2!1sen!2sid!4v1634537103969!5m2!1sen!2sid"
-                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                        data-aos="fade-right"></iframe>
+                        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-                    <div class="contact__informasi col-sm d-flex flex-column p-5" data-aos="fade-left">
+                    <div class="contact__informasi col-sm d-flex flex-column p-5">
                         <h2 class="display-6 font-weight-bold">Informasi Kontak</h2>
 
                         <p>Universitas Pendidikan Indonesia Kampus Upi Cibiru <br> Jl. Pendidikan No.15, Cibiru Wetan,
                             Cileunyi, Bandung, Jawa Barat 40625</p>
 
                         <div class="d-flex mt-3 justify-content-between">
-                            <a href="https://www.instagram.com/himarpl/" class="social-media-links" data-aos="flip-left"
-                                target="_blank">
+                            <a href="https://www.instagram.com/himarpl/" class="social-media-links" target="_blank">
 
                                 <svg class="social-footer " width="50" height="50" viewBox="0 0 56 56" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
@@ -32,8 +30,7 @@
                                         fill="#fff" />
                                 </svg>
                             </a>
-                            <a href="https://www.instagram.com/himarpl/" class="social-media-links" data-aos="flip-left"
-                                target="_blank">
+                            <a href="https://www.instagram.com/himarpl/" class="social-media-links" target="_blank">
 
                                 <svg class="social-footer ml-2" width="50" height="50" viewBox="0 0 56 56" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
@@ -42,8 +39,7 @@
                                         fill="#fff" />
                                 </svg>
                             </a>
-                            <a href="https://www.instagram.com/himarpl/" class="social-media-links" data-aos="flip-left"
-                                target="_blank">
+                            <a href="https://www.instagram.com/himarpl/" class="social-media-links" target="_blank">
 
                                 <svg class="social-footer ml-2" width="50" height="50" viewBox="0 0 56 56" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
@@ -52,8 +48,7 @@
                                         fill="#fff" />
                                 </svg>
                             </a>
-                            <a href="https://www.instagram.com/himarpl/" class="social-media-links" data-aos="flip-left"
-                                target="_blank">
+                            <a href="https://www.instagram.com/himarpl/" class="social-media-links" target="_blank">
 
                                 <svg class="social-footer ml-2" width="50" height="50" viewBox="0 0 56 56" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">

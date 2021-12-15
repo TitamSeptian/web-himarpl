@@ -4,11 +4,12 @@
     <span class="text-color-2">Pengawas</span>
 @endsection
 @section('content')
+
     <section id="struktur">
-        <h2 data-aos="fade-up" class="font-weight-bold my-4 text-center display-4">Pimpinan</h2>
+        <h2 class="font-weight-bold my-4 text-center display-4">Pimpinan</h2>
         <div class="row d-flex flex-row justify-content-center" style="width: 100%;">
             <div class="col-md-4 mt-4 align-items-center text-center">
-                <div class="gallery-wrap" data-aos="zoom-in-up">
+                <div class="gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
                             <h3 style="line-height:50px;">Muhammad Reynaldi</h3>
@@ -38,7 +39,7 @@
                 </div>
             </div>
             <div class="col-md-4 mt-4 align-items-center text-center">
-                <div class="gallery-wrap" data-aos="zoom-in-up">
+                <div class="gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
                             <h3 style="line-height:50px;">Muhammad Reynaldi</h3>
@@ -72,10 +73,10 @@
         </div>
         <!-- komisi 1 -->
         <div class="big-line-1"></div>
-        <h2 data-aos="fade-up" class="font-weight-bold my-4 text-center display-4">Komisi 1</h2>
+        <h2 class="font-weight-bold my-4 text-center display-4">Komisi 1</h2>
         <div class="row d-flex flex-row justify-content-center" style="width: 100%;">
             <div class="col-md-4 mt-4 align-items-center text-center">
-                <div class="gallery-wrap" data-aos="zoom-in-up">
+                <div class="gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
                             <h3 style="line-height:50px;">Muhammad Reynaldi</h3>
@@ -109,7 +110,7 @@
         </div>
         <div class="row d-flex flex-row justify-content-center" style="width: 100%;">
             <div class="col-md-4 mt-4 align-items-center text-center">
-                <div class="gallery-wrap" data-aos="zoom-in-up">
+                <div class="gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
                             <h3 style="line-height:50px;">Muhammad Reynaldi</h3>
@@ -141,7 +142,7 @@
                 </div>
             </div>
             <div class="col-md-4 mt-4 align-items-center text-center">
-                <div class="gallery-wrap" data-aos="zoom-in-up">
+                <div class="gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
                             <h3 style="line-height:50px;">Muhammad Reynaldi</h3>
@@ -173,7 +174,7 @@
                 </div>
             </div>
             <div class="col-md-4 mt-4 align-items-center text-center">
-                <div class="gallery-wrap" data-aos="zoom-in-up">
+                <div class="gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
                             <h3 style="line-height:50px;">Muhammad Reynaldi</h3>
@@ -207,10 +208,10 @@
         </div>
         <!-- komisi 2 -->
         <div class="big-line-1"></div>
-        <h2 data-aos="fade-up" class="font-weight-bold my-4 text-center display-4">Komisi 2</h2>
+        <h2 class="font-weight-bold my-4 text-center display-4">Komisi 2</h2>
         <div class="row d-flex flex-row justify-content-center" style="width: 100%;">
             <div class="col-md-4 mt-4 align-items-center text-center">
-                <div class="gallery-wrap" data-aos="zoom-in-up">
+                <div class="gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
                             <h3 style="line-height:50px;">Muhammad Reynaldi</h3>
@@ -244,7 +245,7 @@
         </div>
         <div class="row d-flex flex-row justify-content-center" style="width: 100%;">
             <div class="col-md-4 mt-4 align-items-center text-center">
-                <div class="gallery-wrap" data-aos="zoom-in-up">
+                <div class="gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
                             <h3 style="line-height:50px;">Muhammad Reynaldi</h3>
@@ -276,7 +277,7 @@
                 </div>
             </div>
             <div class="col-md-4 mt-4 align-items-center text-center">
-                <div class="gallery-wrap" data-aos="zoom-in-up">
+                <div class="gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
                             <h3 style="line-height:50px;">Muhammad Reynaldi</h3>
@@ -308,7 +309,7 @@
                 </div>
             </div>
             <div class="col-md-4 mt-4 align-items-center text-center">
-                <div class="gallery-wrap" data-aos="zoom-in-up">
+                <div class="gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
                             <h3 style="line-height:50px;">Muhammad Reynaldi</h3>
@@ -340,7 +341,7 @@
                 </div>
             </div>
             <div class="col-md-4 mt-4 align-items-center text-center">
-                <div class="gallery-wrap" data-aos="zoom-in-up">
+                <div class="gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
                             <h3 style="line-height:50px;">Muhammad Reynaldi</h3>
@@ -372,7 +373,7 @@
                 </div>
             </div>
             <div class="col-md-4 mt-4 align-items-center text-center">
-                <div class="gallery-wrap" data-aos="zoom-in-up">
+                <div class="gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
                             <h3 style="line-height:50px;">Muhammad Reynaldi</h3>

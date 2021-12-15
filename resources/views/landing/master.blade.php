@@ -19,6 +19,22 @@
     <div id="scroll-top" class="scroll-top animated" data-aos="zoom-in-up">
         <i class="fas fa-caret-up"></i>
     </div>
+    <div class="viewed">
+        <div class="close">
+            &times;
+        </div>
+        <div class="content">
+            <!-- banner(gambar sisingaan) ada di styles.css -->
+            <img src="{{ asset('/asset/img/logo-hima-polos') }}" alt="Img viewer" id="img-viewed">
+            <div class="caption">
+                <h1 class="title"></h1>
+                <div class="text"></div>
+                <div class="user-upload">
+
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="preloader">
         <div class="center">
             <div class="wrapper text-center">
@@ -41,7 +57,7 @@
                 </a>
                 <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"
-                    class="navbar-toggler navbar-toggler-right"><i class="fa fa-bars"></i></button>
+                    class="navbar-toggler navbar-toggler-right text-white"><i class="fa fa-bars"></i></button>
 
                 <div id="navbarSupportedContent" class="collapse navbar-collapse">
                     <ul class="navbar-nav ml-auto">
@@ -67,33 +83,23 @@
             </div>
         </nav>
     </header>
-    <div class="vh-100 header-container">
-        <div class="d-flex flex-column justify-content-center">
+    <section class="header-container text-center">
+        <div class="d-flex flex-column justify-content-center vh-100">
             <div class="d-flex flex-row justify-content-center">
                 <h1 class="text-welcome text-uppercase font-weight-bold text-white display-2">
                     @yield('hero-text')
                 </h1>
             </div>
         </div>
-    </div>
-    {{-- <section id="new-header" class="vh-100">
-        <div class="header-container" data-aos="zoom-in-up">
-            <div class="d-flex flex-column justify-content-center" style="height: 100vh;">
-                <div class="d-flex flex-row justify-content-center" style="width: 100%;">
-                    <h1 class="text-welcome text-uppercase font-weight-bold text-white display-2">
-                        @yield('hero-text')
-                    </h1>
-                </div>
-            </div>
-        </div>
-    </section> --}}
+    </section>
     {{-- # CONTENT --}}
     @yield('content')
     {{-- # END CONTENT --}}
     <section id="footer">
-        <div class="row d-flex flex-column justify-content-center">
+        <div class="d-flex flex-column justify-content-center">
             <div class="col-md-12">
-                <h1 class="display-4 text-color-2 font-weight-bold" data-aos="zoom-out-down">For any inquiries please
+                <h1 class="display-4 text-color-2 font-weight-bold text-footer" data-aos="zoom-out-down">For any
+                    inquiries please
                     hit us up through</h1>
                 <a href="mailto:himarpl@upi.edu" data-aos="zoom-out-right"
                     class="text-muted h5 mt-3">himarpl@upi.edu</a>

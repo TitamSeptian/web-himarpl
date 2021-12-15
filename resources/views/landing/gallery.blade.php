@@ -1,10 +1,10 @@
 @extends('landing.master', [$title ="Gallery", $active="gallery"])
 @section('hero-text')
     Gallery
-    <span class="text-color-1">rpl</span>
-    <span class="text-color-2">muda</span>
+    <span class="text-color-1">HIMA</span><span class="text-color-2">RPL</span>
 @endsection
 @section('content')
+
     <section id="gallery">
         <div class="row d-flex flex-column justify-content-center" style="height: 100%;">
             <div class="row d-flex flex-row justify-content-center" style="width: 100%;">
@@ -27,7 +27,7 @@
                             Lihat
                         </button>
                     </div>
-                    <img src="./assets/img/gallery/1.JPG" alt="foto" class="img-fluid">
+                    <img src="/assets/img/gallery/1.JPG" alt="foto" class="img-fluid">
                 </div>
 
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
@@ -48,7 +48,7 @@
                             Lihat
                         </button>
                     </div>
-                    <img src="./assets/img/gallery/2.JPG" alt="foto" class="img-fluid">
+                    <img src="/assets/img/gallery/2.JPG" alt="foto" class="img-fluid">
                 </div>
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
                     <div class="description" style="display:none;">
@@ -68,7 +68,7 @@
                             Lihat
                         </button>
                     </div>
-                    <img src="./assets/img/gallery/3.JPG" alt="foto" class="img-fluid">
+                    <img src="/assets/img/gallery/3.JPG" alt="foto" class="img-fluid">
                 </div>
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
                     <div class="description" style="display:none;">
@@ -88,7 +88,7 @@
                             Lihat
                         </button>
                     </div>
-                    <img src="./assets/img/gallery/4.JPG" alt="foto" class="img-fluid">
+                    <img src="/assets/img/gallery/4.JPG" alt="foto" class="img-fluid">
                 </div>
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
                     <div class="description" style="display:none;">
@@ -108,7 +108,7 @@
                             Lihat
                         </button>
                     </div>
-                    <img src="./assets/img/gallery/5.JPG" alt="foto" class="img-fluid">
+                    <img src="/assets/img/gallery/5.JPG" alt="foto" class="img-fluid">
                 </div>
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
                     <div class="description" style="display:none;">
@@ -128,7 +128,7 @@
                             Lihat
                         </button>
                     </div>
-                    <img src="./assets/img/gallery/6.JPG" alt="foto" class="img-fluid">
+                    <img src="/assets/img/gallery/6.JPG" alt="foto" class="img-fluid">
                 </div>
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
                     <div class="description" style="display:none;">
@@ -148,7 +148,7 @@
                             Lihat
                         </button>
                     </div>
-                    <img src="./assets/img/gallery/7.JPG" alt="foto" class="img-fluid">
+                    <img src="/assets/img/gallery/7.JPG" alt="foto" class="img-fluid">
                 </div>
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
                     <div class="description" style="display:none;">
@@ -168,7 +168,7 @@
                             Lihat
                         </button>
                     </div>
-                    <img src="./assets/img/gallery/1.JPG" alt="foto" class="img-fluid">
+                    <img src="/assets/img/gallery/1.JPG" alt="foto" class="img-fluid">
                 </div>
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
                     <div class="description" style="display:none;">
@@ -188,7 +188,7 @@
                             Lihat
                         </button>
                     </div>
-                    <img src="./assets/img/gallery/6.JPG" alt="foto" class="img-fluid">
+                    <img src="/assets/img/gallery/6.JPG" alt="foto" class="img-fluid">
                 </div>
             </div>
         </div>
