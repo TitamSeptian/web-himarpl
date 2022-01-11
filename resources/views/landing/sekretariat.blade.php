@@ -1,6 +1,6 @@
 @extends('landing.master', [$title = "Sekretariat ", $active = "sekretariat"])
 @section('hero-text')
-    Sekretariat
+    sekben
     <span class="text-color-1">HIMA</span><span class="text-color-2">RPL</span>
 @endsection
 @section('content')
