@@ -40,7 +40,7 @@
             <div class="wrapper text-center">
                 <img src="{{ asset('/assets/img/logo-kabinet.png') }}" class="img-fluid" alt="logo kabinet"
                     data-aos="zoom-in-up">
-                <h2 class="preloader-text font-weight-bold" data-aos="zoom-in-up">HIMARPL | KABINET INSPIRA</h2>
+                <h2 class="preloader-text font-weight-bold mt-5" data-aos="zoom-in-up">HIMARPL | KABINET INSPIRA</h2>
                 <div class="spinner" data-aos="zoom-in-down">
                     <div class="dot1"></div>
                     <div class="dot2"></div>
@@ -54,7 +54,7 @@
         <nav class="navbar navbar-expand-lg fixed-top py-3">
             <div class="container">
                 <!-- <img src="./assets/img/logo-hima-polos.png" class="navbar-brand logo-navbar"> -->
-                <a href="index.html" class="navbar-brand text-uppercase font-weight-bold">
+                <a href="{{ route('home') }}" class="navbar-brand text-uppercase font-weight-bold">
                     <img src="{{ asset('/assets/img/logo-hima-polos.png') }}" width="53" height="43">
                 </a>
                 <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -74,7 +74,7 @@
                         </li>
                         <li class="nav-item {{ $active == 'sekretariat' ? 'active2' : '' }} "><a
                                 href="{{ route('sekretariat') }}"
-                                class="nav-link text-uppercase font-weight-bold">Sekretariat</a></li>
+                                class="nav-link text-uppercase font-weight-bold">Sekben</a></li>
                         <li class="nav-item {{ $active == 'komunitas' ? 'active2' : '' }} "><a
                                 href="{{ route('komunitas') }}"
                                 class="nav-link text-uppercase font-weight-bold">Komunitas</a></li>

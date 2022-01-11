@@ -12,13 +12,11 @@
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
-                            <h3 style="line-height:50px;">Kegiatan bla bla bla</h3>
+                            <h3 style="line-height:50px;">MABIM RPL 2021</h3>
                         </div>
                         <div class="text">
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto illo dolores ipsa eius
-                                nostrum voluptatem, fuga impedit voluptatibus molestias libero qui cumque, quidem maxime
-                                reprehenderit consequuntur odio excepturi explicabo iure.
+                                Pose Alifta dan Iman sebagai Div. logistik yang Tangguh.
                             </p>
                         </div>
                     </div>
@@ -33,13 +31,11 @@
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
-                            <h3 style="line-height:50px;">Kegiatan bla bla bla</h3>
+                            <h3 style="line-height:50px;">MABIM RPL 2021</h3>
                         </div>
                         <div class="text">
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto illo dolores ipsa eius
-                                nostrum voluptatem, fuga impedit voluptatibus molestias libero qui cumque, quidem maxime
-                                reprehenderit consequuntur odio excepturi explicabo iure.
+                                Foto bareng panitia, di Teater Terbuka UPI KAMPUS CIBIRU
                             </p>
                         </div>
                     </div>
@@ -53,13 +49,11 @@
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
-                            <h3 style="line-height:50px;">Kegiatan bla bla bla</h3>
+                            <h3 style="line-height:50px;">SECTION Volume. 2</h3>
                         </div>
                         <div class="text">
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto illo dolores ipsa eius
-                                nostrum voluptatem, fuga impedit voluptatibus molestias libero qui cumque, quidem maxime
-                                reprehenderit consequuntur odio excepturi explicabo iure.
+                                Potret Sambutan Ketua Pelaksana pada agenda pembukaan acara, oleh Indra Yana Sabihartono
                             </p>
                         </div>
                     </div>
@@ -73,13 +67,11 @@
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
-                            <h3 style="line-height:50px;">Kegiatan bla bla bla</h3>
+                            <h3 style="line-height:50px;">SECTION Volume. 2</h3>
                         </div>
                         <div class="text">
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto illo dolores ipsa eius
-                                nostrum voluptatem, fuga impedit voluptatibus molestias libero qui cumque, quidem maxime
-                                reprehenderit consequuntur odio excepturi explicabo iure.
+                                Pose Panitia ketika acara sedang dimulai.
                             </p>
                         </div>
                     </div>
@@ -93,13 +85,11 @@
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
-                            <h3 style="line-height:50px;">Kegiatan bla bla bla</h3>
+                            <h3 style="line-height:50px;">MABIM RPL 2021</h3>
                         </div>
                         <div class="text">
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto illo dolores ipsa eius
-                                nostrum voluptatem, fuga impedit voluptatibus molestias libero qui cumque, quidem maxime
-                                reprehenderit consequuntur odio excepturi explicabo iure.
+                                Foto bareng Ciwi – ciwi Panitia.
                             </p>
                         </div>
                     </div>
@@ -113,13 +103,11 @@
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
-                            <h3 style="line-height:50px;">Kegiatan bla bla bla</h3>
+                            <h3 style="line-height:50px;">MABIM RPL 2021</h3>
                         </div>
                         <div class="text">
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto illo dolores ipsa eius
-                                nostrum voluptatem, fuga impedit voluptatibus molestias libero qui cumque, quidem maxime
-                                reprehenderit consequuntur odio excepturi explicabo iure.
+                                Pose Arfi, Riyandi, Reyhan, Aiman dan Fikri Habib sebagai Panitia.
                             </p>
                         </div>
                     </div>
@@ -133,13 +121,11 @@
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
-                            <h3 style="line-height:50px;">Kegiatan bla bla bla</h3>
+                            <h3 style="line-height:50px;">SECTION Volume. 2</h3>
                         </div>
                         <div class="text">
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto illo dolores ipsa eius
-                                nostrum voluptatem, fuga impedit voluptatibus molestias libero qui cumque, quidem maxime
-                                reprehenderit consequuntur odio excepturi explicabo iure.
+                                Foto bareng panita dalam Penutupan Acara.
                             </p>
                         </div>
                     </div>
@@ -153,13 +139,11 @@
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
-                            <h3 style="line-height:50px;">Kegiatan bla bla bla</h3>
+                            <h3 style="line-height:50px;">SECTION Volume. 2</h3>
                         </div>
                         <div class="text">
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto illo dolores ipsa eius
-                                nostrum voluptatem, fuga impedit voluptatibus molestias libero qui cumque, quidem maxime
-                                reprehenderit consequuntur odio excepturi explicabo iure.
+                                Momen diskusi games pembagian snack.
                             </p>
                         </div>
                     </div>
@@ -173,13 +157,11 @@
                 <div class="col-md-4 mt-4 align-items-center text-center gallery-wrap">
                     <div class="description" style="display:none;">
                         <div class="title">
-                            <h3 style="line-height:50px;">Kegiatan bla bla bla</h3>
+                            <h3 style="line-height:50px;">SECTION Volume. 2</h3>
                         </div>
                         <div class="text">
                             <p>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto illo dolores ipsa eius
-                                nostrum voluptatem, fuga impedit voluptatibus molestias libero qui cumque, quidem maxime
-                                reprehenderit consequuntur odio excepturi explicabo iure.
+                                Momen games Lempar Permen selepas acara.
                             </p>
                         </div>
                     </div>

@@ -20,7 +20,7 @@
                                     <h3 style="line-height:50px;">{{ $m['name'] }}</h3>
                                 </div>
                                 <div class="text">
-                                    <p>{{ $m['bio'] }}</p>
+                                    <p>{!! $m['bio'] !!}</p>
                                     @foreach ($m['sosmed'] as $s)
                                         <a href="{{ $s['url'] }}" class="btn btn-danger">{{ $s['label'] }}</a>
                                     @endforeach

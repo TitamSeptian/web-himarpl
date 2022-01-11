@@ -239,7 +239,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="d-flex flex-column justify-content-center vh-100 text-center">
-                        <h3 class="font-weight-bold text-center">Pimpinan Badan Eksutif</h3>
+                        <h3 class="font-weight-bold text-center">Pimpinan Badan Eksekutif</h3>
                         <div class="about-item-timeline-wrap">
                             <div class="about-item-timeline">
                                 <div class="item-timeline">

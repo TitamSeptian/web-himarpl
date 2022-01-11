@@ -1,8 +1,8 @@
 @extends('landing.master', [$title ="| Contact", $active="contact"])
 @section('hero-text')
     Contact
-    <span class="text-color-1">rpl</span>
-    <span class="text-color-2">muda</span>
+    <span class="text-color-1">HIMA</span>
+    <span class="text-color-2">RPL</span>
 @endsection
 @section('content')
     <section id="contact">
