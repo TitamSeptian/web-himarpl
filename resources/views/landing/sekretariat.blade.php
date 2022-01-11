@@ -1,7 +1,6 @@
-@extends('landing.master', [$title = "Sekretariat ", $active = "sekretariat"])
+@extends('landing.master', [$title = "Sekben ", $active = "sekretariat"])
 @section('hero-text')
-    sekben
-    <span class="text-color-1">HIMA</span><span class="text-color-2">RPL</span>
+    <span class="text-color-1">SEK</span><span class="text-color-2">BEN</span>
 @endsection
 @section('content')
 

@@ -1,6 +1,6 @@
 @extends('landing.master', [$title = "Dewan Pengawas", $active = "dp"])
 @section('hero-text')
-    <span class="text-color-1">Sekretariat</span>
+    <span class="text-color-1">Dewan</span>
     <span class="text-color-2">Pengawas</span>
 @endsection
 @section('content')

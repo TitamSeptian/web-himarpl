@@ -21,7 +21,7 @@ Route::get('/dp', [LandingController::class, "dp"])->name("dp");
 Route::get('/gallery', [LandingController::class, "gallery"])->name("gallery");
 Route::get('/about', [LandingController::class, "about"])->name("about");
 Route::get('/contact', [LandingController::class, "contact"])->name("contact");
-Route::get('/sekretariat', [LandingController::class, "sekretariat"])->name("sekretariat");
+Route::get('/sekben', [LandingController::class, "sekretariat"])->name("sekretariat");
 
 Route::prefix('/komunitas')->group(function (){
     Route::get('/', [LandingController::class, "komunitas"])->name("komunitas");
